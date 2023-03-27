@@ -1,0 +1,17 @@
+
+p{
+    background-color: #bae198;
+}
+body{
+    background-color: #bae198;
+
+}
+body{
+    color: rgb(80, 80, 168);
+}
+a{
+    display: flex; 
+    justify-content: center;
+    align-items: center ;
+    text-decoration: none;
+}
